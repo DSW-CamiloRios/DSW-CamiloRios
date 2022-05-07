@@ -50,8 +50,8 @@ ul, ol{
     align-items: flex-start;
 }
 .menu li a{
-    background-color:#5584AC;
-    color:cornsilk;
+    background-color:#191e22;
+    color:rgb(255, 0, 0);
     text-decoration: none;
     padding: 20px 80px;
     display:block;
